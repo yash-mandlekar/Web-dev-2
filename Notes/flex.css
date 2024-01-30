@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.box{
+    height: 100%;
+    width: 100%;
+    background-color: blue;
+    display: flex;
+    /* justify-content work for horizontal alignment */
+    justify-content: space-between;
+    /* align items work for vertical alignment */
+    align-items: center;
+}
+.pencil{
+    height: 50%;
+    width: 10%;
+    background-color: red;
+}
+
+.pen{
+    height: 50%;
+    width: 10%;
+    background-color: green;
+}

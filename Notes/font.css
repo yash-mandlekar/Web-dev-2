@@ -1,0 +1,32 @@
+@font-face {
+    font-family: Single-day;
+    src: url(SingleDay-Regular.ttf);
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-image: url(https://images.unsplash.com/photo-1682687220067-dced9a881b56?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8);
+    background-size: cover;
+}
+
+.box{
+    padding: 100px;
+    margin: 10px;
+    /* background-color: rgba(222, 193, 167, 0.604); */
+    font-size: 125px;
+    /* font-family: Single-day; */
+    font-weight: bold;
+    /* border: 2px solid rgb(70, 70, 70); */
+    /* background-color: rgba(128, 128, 128, 0.449); */
+    /* border-radius: 61% 39% 42% 58% / 62% 17% 83% 38% ; */
+
+    background: linear-gradient(violet,indigo,blue,green,yellow,orange,red);
+}

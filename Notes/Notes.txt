@@ -1,0 +1,41 @@
+For HTML --------------------------------------------------------------- 
+
+1. Paired Tags
+
+2. Unpaired Tags
+
+For CSS ----------------------------------------------------------------
+
+1. understanding css - styling
+
+2. making css file
+
+3. understanding linking 
+
+4. css boilerplate
+
+5. understanding css writing way 
+
+6. understanding width, height
+
+7. understanding units - px and %
+-
+
+8. understanding margin padding
+
+9. understanding background image and things related to it
+
+10. understanding position absolute
+
+11. understanding flexbox
+-
+
+12. understanding font size,font family, font weight
+
+13. border , border radius ,background color (transparent), liner gradient "fancy border radius"
+
+14. box-shadow , filter , backdrop-filter
+
+15. transform , translate , rotate , scale 
+
+
